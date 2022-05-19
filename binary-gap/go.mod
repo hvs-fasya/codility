@@ -1,3 +1,3 @@
 module github.com/hvs-fasya/codility/binary-gap
 
-go 1.16
+go 1.18
